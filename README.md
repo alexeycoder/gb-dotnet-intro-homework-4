@@ -27,6 +27,8 @@
 
 *Примеры:*
 
+![task27-example-4](https://user-images.githubusercontent.com/109767480/185496095-08516059-f40a-47f4-bba2-856127603a50.png)
+
 ![task27-example-1](https://user-images.githubusercontent.com/109767480/185070626-bfe13b91-b5d7-479d-bd2a-e97b0b6c5f21.png)
 
 ![task27-example-2](https://user-images.githubusercontent.com/109767480/185070647-6b3e662f-c008-4fba-bf73-be38b2ce9b5c.png)
